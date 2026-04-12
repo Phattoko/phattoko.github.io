@@ -254,7 +254,7 @@ main.content img.invert {
   align-items: center; /* จัดตำแหน่งโลโก้ให้อยู่ตรงกลาง */
   margin: 0 auto; /* จัดตำแหน่งโลโก้ให้อยู่ตรงกลาง */
   padding: 0.25rem; /* ระยะห่างรอบๆ โลโก้ */
-  filter: drop-shadow(0 0 2.5rem var(--color-button-bg)) invert(100%); /* เงาโลโก้ */
+  filter: drop-shadow(0 0 2.5rem var(--color-button-bg)) invert(0%); /* เงาโลโก้ */
 }
 
 button {
